@@ -1,0 +1,12 @@
+{
+    "name": "bermudaphp/config-provider",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bermuda\\Config\\": "src/"
+        }
+  },
+  "require": {
+    "php": "^8.4"
+  }
+}
