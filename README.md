@@ -1,1 +1,4 @@
-# config-provider
+# Install
+```bash
+composer require bermudaphp/config-provider
+```
