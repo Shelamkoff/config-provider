@@ -1,4 +1,4 @@
 # Install
 ```bash
-composer require bermudaphp/config-provider
+composer require bermudaphp/router-provider
 ```
