@@ -8,6 +8,7 @@
   },
   "require": {
     "php": "^8.4",
-    "bermudaphp/router": "^5.0.0"
+    "bermudaphp/router": "^5.0.0",
+    "bermudaphp/config": "^2.0.0",
   }
 }
