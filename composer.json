@@ -1,12 +1,13 @@
 {
-    "name": "bermudaphp/config-provider",
+    "name": "bermudaphp/router-provider",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Bermuda\\Config\\": "src/"
+            "Bermuda\\Router\\": "src/"
         }
   },
   "require": {
-    "php": "^8.4"
+    "php": "^8.4",
+    "bermudaphp/router": "^5.0.0"
   }
 }
